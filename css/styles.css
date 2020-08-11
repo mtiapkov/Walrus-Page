@@ -10,3 +10,17 @@
 .clickable:hover {
   text-decoration: underline;
 }
+
+
+#showImage {
+  display: none;
+}
+
+.clickable1 {
+  cursor: pointer;
+  color: blue;
+}
+
+.clickable1:hover {
+  text-decoration: underline;
+}
